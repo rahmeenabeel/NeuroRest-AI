@@ -43,7 +43,7 @@ Unlike traditional single-task models, NeuroRest AI uses a **shared representati
 - Hosted on Hugging Face Spaces  
 
 👉 **Live Demo:**  
-
+https://huggingface.co/spaces/rahmeenabeel/NeuroRest-AI
 
 ---
 
